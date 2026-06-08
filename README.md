@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Karishma Gouni 👋
 
-<!--
-**kgouni98-security/kgouni98-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional with experience in Email Security, Network Security, and Security Operations.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Email Security
+- Network Security
+- Security Operations
+- Security Automation
+- Cloud Security
+- AI in Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- Master of science in Computer Science, Cybersecurity Specialization
+
+## Current Focus
+- Security Automation
+- Cybersecurity Architecture
+- Cloud Security
+- AI for Cybersecurity
+
+## Certifications
+- CCNA
+- Splunk Certified Power User
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/k-gouni/
