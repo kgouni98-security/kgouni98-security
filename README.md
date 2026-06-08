@@ -11,7 +11,7 @@ Cybersecurity professional with experience in Email Security, Network Security, 
 - AI in Cybersecurity
 
 ## Education
-- Master of science in Computer Science, Cybersecurity Specialization
+- Master of science in Computer Science, Cybersecurity Specialization | Hood College
 
 ## Current Focus
 - Security Automation
@@ -22,6 +22,19 @@ Cybersecurity professional with experience in Email Security, Network Security, 
 ## Certifications
 - CCNA
 - Splunk Certified Power User
+
+## Research
+
+- Published research in blockchain and cryptographic technologies
+- Interested in cybersecurity, digital security, and emerging security technologies
+
+## Experience Focus
+
+- Email Security (Cisco ESA)
+- Palo Alto Firewalls
+- Security Monitoring
+- Incident Investigation
+- Security Operations
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/k-gouni/
